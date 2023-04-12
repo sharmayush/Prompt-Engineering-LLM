@@ -19,3 +19,4 @@ Post articles, research paper and code related to Prompt Engineering and LLM.
 
 ## Credits
 - [Ashish Patel](https://github.com/ashishpatel26)
+- [Prompt Engineering image](https://www.xiaoluboke.com/wp-content/uploads/2023/03/prompt-engineering.jpg)
