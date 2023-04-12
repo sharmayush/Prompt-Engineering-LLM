@@ -11,3 +11,11 @@ Post articles, research paper and code related to Prompt Engineering and LLM.
 ## Prompt Engineering Day 1
 
 ### [DAY 1](https://www.linkedin.com/posts/ashishpatel2604_promptengineering-largelanguagemodels-artificialintelligence-activity-7043442871990951937-NebM?utm_source=share&utm_medium=member_desktop)
+
+
+
+
+
+
+## Credits
+- [Ashish Patel] https://github.com/ashishpatel26
