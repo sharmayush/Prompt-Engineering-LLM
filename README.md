@@ -18,4 +18,4 @@ Post articles, research paper and code related to Prompt Engineering and LLM.
 
 
 ## Credits
-- [Ashish Patel] https://github.com/ashishpatel26
+- [Ashish Patel](https://github.com/ashishpatel26)
