@@ -5,7 +5,7 @@ Post articles, research paper and code related to Prompt Engineering and LLM.
 
 ## Ashish Patel Linkedin Post
 
--[Prompt Engineering Day 1](prompt-engineering)
+- [Prompt Engineering Day 1](prompt-engineering)
 
 
 ## Prompt Engineering Day 1
