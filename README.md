@@ -43,6 +43,42 @@ PromptEngineering Learning Google Research has Introduced the Finetuned Langauge
 
 ### [DAY 2](https://www.linkedin.com/posts/ashishpatel2604_promptengineering-largelanguagemodels-artificialintelligence-activity-7044527071057850368-Wf_I?utm_source=share&utm_medium=member_desktop)
 
+PromptEngineering Language Models as Few-Shot Learners
+
+📃 ResearchPaper : https://lnkd.in/dUYcMSkB
+
+🧑‍💻 Code : https://lnkd.in/drQWySc3
+
+🚀 INTERESTING FACTS:
+------------------------
+🔸 The paper introduces the concept of few-shot learning in NLP tasks, which is the ability of a language model to perform a new task from only a few examples or simple instructions.
+
+🔸 The authors use GPT-3 175B, one of the largest language models available at the time of writing, to demonstrate the effectiveness of few-shot learning on a variety of NLP tasks.
+
+🔸 The paper includes detailed descriptions and examples of various NLP tasks used to evaluate the performance of language models in zero-shot, one-shot, and few-shot settings.
+
+🕵️‍♀️ IMPORTANCE:
+------------------------
+🔹 The paper introduces the concept of few-shot learning in NLP tasks, which is a significant advancement in the field of natural language processing.
+
+🔹 The authors demonstrate that language models can perform well on new tasks with only a few examples or simple instructions, which has important implications for real-world applications.
+
+🔹 The paper evaluates the performance of GPT-3 175B, one of the largest language models available at the time of writing, on a variety of NLP tasks, providing valuable insights into its capabilities and limitations.
+
+🔹 The authors compare the performance of GPT-3 to other state-of-the-art language models and show that it outperforms them on many tasks.
+
+🔹 The paper includes detailed descriptions and examples of various NLP tasks used to evaluate the performance of language models in zero-shot, one-shot, and few-shot settings, providing a comprehensive overview of current research in this area.
+
+🔹 The authors discuss potential applications for few-shot learning in areas such as chatbots, question answering systems, and machine translation.
+
+🔹 The paper highlights the importance of pre-training on large corpora of text followed by fine-tuning on specific tasks for achieving high performance on NLP benchmarks.
+
+🔹 Overall, this paper represents an important contribution to the field of natural language processing and has significant implications for future research and development in this area.
+
+
+<p align="center"><img width="600" src="https://media.licdn.com/dms/image/D4D22AQHtW8TS54uz7g/feedshare-shrink_800/0/1679546133698?e=1684368000&v=beta&t=i13qsYnm7FW5XZ-ZtYaixX79-83htUr-5zNmCtHZaHw">
+
+
 ### [DAY 3](https://www.linkedin.com/posts/ashishpatel2604_ai-artificialintelligence-machinelearning-activity-7046347361631055872-vJVW?utm_source=share&utm_medium=member_desktop)
 
 ### [DAY 4](https://www.linkedin.com/posts/ashishpatel2604_innovation-artificialintelligence-promptengineering-activity-7046711374248390656-856P?utm_source=share&utm_medium=member_desktop)
