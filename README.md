@@ -81,6 +81,66 @@ PromptEngineering Language Models as Few-Shot Learners
 
 ### [DAY 3](https://www.linkedin.com/posts/ashishpatel2604_ai-artificialintelligence-machinelearning-activity-7046347361631055872-vJVW?utm_source=share&utm_medium=member_desktop)
 
+Prompt Engineering: Google #AI Research Finds Chain-of-Thought Prompting Boosts Reasoning in Large Language Models
+
+📃 Paper : https://lnkd.in/dC7Td7Hy
+
+🧑‍💻 Code : https://lnkd.in/d-JusXSF
+
+🕵️‍♀️ Abstract:
+
+🔸 The paper explores how generating a chain of thought improves the ability of large language models to perform complex reasoning.
+
+🔸 Chain-of-thought prompting is a simple method that demonstrates how reasoning abilities emerge naturally in sufficiently large language models.
+
+🛫 Introduction:
+
+🔸 The paper discusses the limitations of current language models in performing complex reasoning tasks.
+
+🔸 It introduces chain-of-thought prompting as a solution to this problem.
+
+🔸 The paper outlines the structure of the rest of the paper.
+
+📃 Related Work:
+
+🔸 The paper discusses previous research on few-shot learning and prompting in language models.
+
+🔸 It highlights the differences between these approaches and chain-of-thought prompting.
+
+⚙️ Methodology:
+
+🔸 The paper describes how chain-of-thought prompts are constructed and used to train language models.
+
+🔸 It explains how three large language models were trained using this method.
+
+🧑‍🔬 Experiments:
+
+🔸 The paper presents results from experiments conducted on three large language models using various reasoning tasks.
+
+🔸 It compares the performance of these models with and without chain-of-thought prompting.
+
+🤝 Discussion:
+
+🔸 The paper discusses the implications of its findings for natural language processing and artificial intelligence research.
+
+🔸 It also highlights some limitations and potential future directions for this research.
+
+🚀 List of concepts used in the Paper:
+------
+✅ Chain-of-thought prompting \
+✅ Large language models \
+✅ Complex reasoning tasks \
+✅ Few-shot learning \
+✅ Prompting \
+✅ Reasoning abilities \
+✅ Model scale \
+✅ Arithmetic reasoning \
+✅ Symbolic reasoning \
+✅ Commonsense reasoning
+
+<p align="center"><img width="600" src="https://media.licdn.com/dms/image/D4D22AQEq9bdLJ4QidQ/feedshare-shrink_800/0/1679980123906?e=1684368000&v=beta&t=jz5TGEZdHVUUIRSE4jF2uAHCqpH_J013Z-ni-Uwl_AE">
+
+
 ### [DAY 4](https://www.linkedin.com/posts/ashishpatel2604_innovation-artificialintelligence-promptengineering-activity-7046711374248390656-856P?utm_source=share&utm_medium=member_desktop)
 
 ### [DAY 5](https://www.linkedin.com/posts/ashishpatel2604_promptengineering-largelanguagemodels-machinelearning-activity-7047431337971990528-Th_D?utm_source=share&utm_medium=member_desktop)
